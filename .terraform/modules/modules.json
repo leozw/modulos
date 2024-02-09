@@ -1,1 +1,1 @@
-{"Modules":[{"Key":"","Source":"","Dir":"."}]}
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"lambda","Source":"git::ssh://git@github.com/leozw/modulos.git//module/lambda?ref=master","Dir":".terraform/modules/lambda/module/lambda"}]}

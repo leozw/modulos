@@ -1,8 +1,3 @@
-variable "github_token" {
-  type = string
-  default = {}
-}
-
 variable "function_name" {
   description = "Unique name for your Lambda Function."
   type        = string
